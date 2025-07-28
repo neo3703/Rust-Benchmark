@@ -9,7 +9,11 @@ benchmark launch guide
    
 note -  To measure FPS and other indicators, use MSI Afterburner ( https://www.guru3d.com/download/msi-afterburner-beta-download/ )
 
+#  Example of my benchmark
 <img width="1920" height="1080" alt="Rust - R7 5800XT vs R7 5700x3D_21 mp4_snapshot_05 53 540" src="https://github.com/user-attachments/assets/00bb867e-0448-4ba1-aa35-d979a6a58a88" />
+I got the following results
+<img width="1920" height="1080" alt="Rust - R7 5800XT vs R7 5700x3D_21 mp4_snapshot_04 26 000" src="https://github.com/user-attachments/assets/a4062ba2-bdb8-4af8-b722-f4d32a01babf" />
+You can find more tests in this game on my YouTube channel. All links are below.
 
 #   Benchmark of several CPUs in this game is here - https://www.youtube.com/playlist?list=PLNBEBHnTQ4smMoXHGNQfAGOqifLd7CaTo
 
