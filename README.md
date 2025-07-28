@@ -7,7 +7,9 @@ benchmark launch guide
 3. In the game's main menu, open Demos (in the upper right corner, 3 icons from the top)
 4. Select "Benchmark2" and press play
    
-    To measure FPS and other indicators, use MSI Afterburner ( https://www.guru3d.com/download/msi-afterburner-beta-download/ )
+note -  To measure FPS and other indicators, use MSI Afterburner ( https://www.guru3d.com/download/msi-afterburner-beta-download/ )
+
+ 
 
 #   Benchmark of several CPUs in this game is here - https://www.youtube.com/playlist?list=PLNBEBHnTQ4smMoXHGNQfAGOqifLd7CaTo
 
